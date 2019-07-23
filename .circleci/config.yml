@@ -10,7 +10,7 @@ alias:
           REPO_NAME: "no1zy"
           IMAGE_NAME: "authorization-proxy"
           GITHUB_API: "https://api.github.com/"
-          DOCKER_USER: "no1z"
+          DOCKER_USER: "no1zy"
   setup_remote_docker: &setup_remote_docker
     version: 18.06.0-ce
     docker_layer_caching: true
